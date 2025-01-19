@@ -19,9 +19,9 @@ An awesome website for a motel on the coast of kenya
 
  ## About The Project 
 
- > An Image of the screenshot is be added
+ <!-- > An Image of the screenshot is be added -->
 
-<!-- ![Product Screenshot](https://picsum.photos/1920/1080) -->
+![Product Screenshot](./assets/imgs/hero.png)
 
 Utalii is a  website created by Manasseh Gitau that showcases services offered by Utalii Motel that is located along the shores of the Indian ocean.
 
