@@ -77,8 +77,8 @@ To run the project locally use the following steps
 
 - [x] Navigation  Bar
 - [x] Hero Section
-- [ ] Rooms ad Amenities section
-- [ ] Contact and footer section
+- [x] Rooms ad Amenities section
+- [x] Contact and footer section
 - [ ] Additional Features
   - [ ] feature 1
   - [ ] Feature 2
